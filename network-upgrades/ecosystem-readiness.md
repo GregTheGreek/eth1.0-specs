@@ -10,9 +10,7 @@ If you know about a status update please add a PR to this document or post on th
 For a list of included EIPs see the [specification](./mainnet-upgrades/london.md) document.
 
 Tracking: `active`
-⭕ - Not Started
-🛠️ - In Progress
-✅ - Complete
+
 
 ### Developer Tools
 
@@ -49,7 +47,7 @@ Tracking: `active`
 
 | Name | Description | Dependencies | Work | EIPs | Release | Status
 |---|---|---|---|---|---|---|
-| [Web3.js][web3js-link] | Network API (JavaScript) | EthereumJS |  | 1559 |  | ⭕
+| [Web3.js][web3js-link] | Network API (JavaScript) | EthereumJS |  | 1559 |  | 🛠️
 | [Ethers.js][ethers-link] | Network API (JavaScript) |  | [URL][ethers-work] | 1559 |  | 🛠️ 
 | [EthereumJS][ethereumjs-link] | Libraries |  | [URL][ethereumjs-work] | All | [URL][ethereumjs-release] | ✅
 | [Web3.py][web3py-link] | Network API (Python) |  | [URL][web3py-work] | 1559 |  |🛠️ 
